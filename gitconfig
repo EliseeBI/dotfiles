@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bianco_51email@icloud.com
+	name = Elise Bianco
